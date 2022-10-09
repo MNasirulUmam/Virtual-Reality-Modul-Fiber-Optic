@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: b699057c68478054d9c03d885c3a4570
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TIANG SET
+    second: {fileID: 2100000, guid: c2fa5af1fbb6bdc48aa701a3661a94fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ac
+    second: {fileID: 2100000, guid: a69a8aea99bb15a439647b6289fad70e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lampu neon
+    second: {fileID: 2100000, guid: effb530ee19bd784d987900fb82eac15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lemari
+    second: {fileID: 2100000, guid: d0fc492f629a2634d8d68888ef168e52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meja
+    second: {fileID: 2100000, guid: 4e84b7aeb6a89e1488f392076b374210, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papan rak rumah penyangga
+    second: {fileID: 2100000, guid: 9ed645e10225a4e4386155a5bec47c20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tembok kaca pintu lantai atap
+    second: {fileID: 2100000, guid: 1b524f862e2268746b415cdf391f824f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TIANG SET_TIANG SET_AlbedoTransparency
+    second: {fileID: 2800000, guid: a8635acfa5ca2fe419203f51bc8f4e04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TIANG SET_TIANG SET_Emission
+    second: {fileID: 2800000, guid: 84cb7f8f8dab5a74ca6de2c9e6c5bf3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TIANG SET_TIANG SET_MetallicSmoothness
+    second: {fileID: 2800000, guid: c34223408fc19d04b866400bc576d84e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TIANG SET_TIANG SET_Normal
+    second: {fileID: 2800000, guid: 732b8388dbde61e4c925bad6dfd36300, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ac_ac_AlbedoTransparency
+    second: {fileID: 2800000, guid: 1cd4f2955f5d35340a44de6933cc7a24, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ac_ac_MetallicSmoothness
+    second: {fileID: 2800000, guid: 9c87e8201e787ac4e9b1afe49498205c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ac_ac_Normal
+    second: {fileID: 2800000, guid: f2f1af606758ae9469b2370a4bcc7d18, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lampu neon_lampu neon_AlbedoTransparency
+    second: {fileID: 2800000, guid: a4adfce4d3d066b4f82ad50f49e4843a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lampu neon_lampu neon_Emission
+    second: {fileID: 2800000, guid: 30f3f6fd7ccba604a98ce678e2ff8552, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lampu neon_lampu neon_MetallicSmoothness
+    second: {fileID: 2800000, guid: a3e72ea749e6565458b73cbaf44c95d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lampu neon_lampu neon_Normal
+    second: {fileID: 2800000, guid: 104a61c70f6f1514887acf9a58f031d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lemari_lemari_AlbedoTransparency
+    second: {fileID: 2800000, guid: 0998fbcfb1dee0a4f9b47feba9c1d8b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lemari_lemari_MetallicSmoothness
+    second: {fileID: 2800000, guid: 6772cde666c344e47a028289cce8bc1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lemari_lemari_Normal
+    second: {fileID: 2800000, guid: 017bf3c4e79389e468ae93b4ff0b4cb7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: meja_meja_AlbedoTransparency
+    second: {fileID: 2800000, guid: f3f83a28a5a440843a25002a224cea32, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: meja_meja_MetallicSmoothness
+    second: {fileID: 2800000, guid: 7300a8d32007fde40a17f3d2b92972a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: meja_meja_Normal
+    second: {fileID: 2800000, guid: d81604dea96f50841a9dc369078bd2ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: papan rak rumah penyangga_papan rak rumah penyangga_AlbedoTransparency
+    second: {fileID: 2800000, guid: 29c05d8da312d7746a8077d881e095cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: papan rak rumah penyangga_papan rak rumah penyangga_MetallicSmoothness
+    second: {fileID: 2800000, guid: d218b395b82e6504092ca569642e9e3c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: papan rak rumah penyangga_papan rak rumah penyangga_Normal
+    second: {fileID: 2800000, guid: 284e9e2e511324e42a3e3053edaed424, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tembok kaca pintu lantai atap_tembok kaca pintu lantai atap_AlbedoTransparency
+    second: {fileID: 2800000, guid: 74ecb1e22f081f94e9e8662cfe512790, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tembok kaca pintu lantai atap_tembok kaca pintu lantai atap_MetallicSmoothness
+    second: {fileID: 2800000, guid: b75d54604d5e49546ab1cb2f1fb91d17, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tembok kaca pintu lantai atap_tembok kaca pintu lantai atap_Normal
+    second: {fileID: 2800000, guid: 7097090dd0a60f54385db124bff81ef9, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
